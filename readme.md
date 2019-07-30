@@ -4,7 +4,6 @@
 
 
 
-
 # Flying Fox - Enclosure
 
 ![](https://flyingfox.network/images/1.png)
@@ -129,7 +128,6 @@ Specification:
 * Altitude Range: 0 to 30,000 ft (9.2 km), relative accuracy of 3.3 ft (1 m) at sea level, 6.6 (2 m) at 30,000 ft.
 * Compact Form Factor
 
+# Roadmap
 
-------
-
-![](http://briankhuu.com/projects/pixelart/grass.png)
+![](https://flyingfox.network/images/roadmap.png)
