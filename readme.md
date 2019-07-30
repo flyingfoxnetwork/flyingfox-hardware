@@ -12,7 +12,7 @@
 
 # Flying Fox - Features and Specifications
 
-![](https://flyingfox.network/images/1.png)
+![](https://flyingfox.network/images/2.png)
 
 System Specification:
 
@@ -34,7 +34,7 @@ System Specification:
 
 ## ARDUINO MKR NB 1500
 
-![](https://flyingfox.network/images/2.png)
+![](https://flyingfox.network/images/3.png)
 
 Specification:
 
@@ -52,7 +52,7 @@ Specification:
 
 ## GPS - Titan X1
 
-![](https://flyingfox.network/images/3.png)
+![](https://flyingfox.network/images/4.png)
 
 Specification:
 
@@ -79,7 +79,7 @@ Documents:
 
 ## CO2 Sensing - MH-Z16 Intelligent Infrared Gas Module Sensor Features
 
-![](https://flyingfox.network/images/4.png)
+![](https://flyingfox.network/images/5.png)
 
 Key Reasons For Selection:
 
@@ -117,7 +117,7 @@ More document:
 
 ## Humidity and Temperature Sensor - BME280
 
-![](https://flyingfox.network/images/5.png)
+![](https://flyingfox.network/images/6.png)
 
 Specification:
 
