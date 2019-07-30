@@ -130,4 +130,4 @@ Specification:
 
 # Roadmap
 
-![](https://flyingfox.network/images/roadmap.png)
+![](https://flyingfox.network/submission/roadmap.png)
